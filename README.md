@@ -1,5 +1,7 @@
 <a href="https://fem.digital" rel="FEM Future Education Modena" target="_blank">![](FEM_Logo.png)</a>
 
+>  :white_check_mark: Ultimo aggiornamento: 6 Aprile 2020
+
 # Strategie e strumenti digitali di linguistica applicata per la didattica
 
 Questo documento presenta un elenco di strumenti digitali di linguistica che offrono applicazioni interessanti in ambito didattico e in linea con le attuali Indicazioni Nazionali per il curricolo scolastico.
