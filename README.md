@@ -2,7 +2,7 @@
 
 <a href="https://fem.digital" rel="FEM Future Education Modena" target="_blank">![](FEM_Logo.png)</a>
 
->  <i class="fas fa-camera"></i> Ultimo aggiornamento: 6 Aprile 2020
+>  <i class="far fa-calendar-check"></i> Ultimo aggiornamento: 8 Aprile 2020
 
 # Strategie e strumenti digitali di linguistica applicata per la didattica
 
@@ -12,17 +12,9 @@ Questo documento presenta un elenco di strumenti digitali di linguistica che off
 
 ### Descrizione
 
-E’ un software per l’annotazione semantica di testi: permette di inserire testi e di creare etichette personalizzate.
+Software per l’annotazione di testi: è possibile caricare permette di inserire testi e di creare etichette personalizzate.
 
-### Funzionalità <i class="fas fa-check-circle" style="color:green"></i>, limitazioni <i class="fas fa-times-circle" style="color:red"></i>, privacy <i class="far fa-eye-slash"></i>
-
-<i class="fas fa-check-circle" style="color:green"></i>  Permette di caricare testi in qualsiasi lingua.
-
-<i class="fas fa-check-circle" style="color:green"></i> Permette di creare un numero illimitato di etichette personalizzate, e di creare etichette diverse per progetti diversi.
-
-
-
-**Obiettivi di apprendimento**: permette di lavorare su qualunque tipologia di analisi linguistica se si usano dataset targettizzati al livello linguistico della classe. 
+**Obiettivi di apprendimento**: permette di lavorare su qualunque tipologia di analisi linguistica se si usano dataset targettizzati al livello linguistico della classe.
 
 **Applicazioni per la didattica**: dalla scuola primaria alla scuola secondaria di secondo grado (dunque da un livello basilare a uno più avanzato), di seguito alcune delle possibili applicazioni di Doccano:
 
@@ -34,6 +26,26 @@ E’ un software per l’annotazione semantica di testi: permette di inserire te
 - analisi di metafore concettuali
 - analisi di figure retoriche
 - varietà linguistiche dell’italiano
+
+### In breve: funzionalità <i class="fas fa-check-circle" style="color:green"></i>, limitazioni <i class="fas fa-times-circle" style="color:red"></i>, privacy <i class="far fa-eye-slash"></i>
+
+<i class="fas fa-check-circle" style="color:green"></i>  Possibilità di  caricare testi in qualsiasi lingua, ed in diversi formati, tra cui  `.txt` (testo semplice) e `json`.
+
+<i class="fas fa-check-circle" style="color:green"></i> Creazione di  un numero illimitato di etichette personalizzate, e di creare etichette diverse per progetti diversi.
+
+<i class="fas fa-check-circle" style="color:green"></i> Visualizzazione delle annotazioni per ogni singolo utente
+
+<i class="fas fa-check-circle" style="color:green"></i> Due modalità di annotazione: *individuale* o *collaborativa*
+
+<i class="fas fa-check-circle" style="color:green"></i>
+
+<i class="fas fa-times-circle" style="color:red"></i> Non è possibile assegnare più di un'etichetta alla stessa parola/frase annotata.
+
+<i class="fas fa-times-circle" style="color:red"></i> Il registro delle annotazioni non consente di visualizzare l'ordine o la cronologia delle operazioni.
+
+<i class="far fa-eye-slash"></i> Software *open source*.
+
+<i class="far fa-eye-slash"></i> 
 
 ## [Voyant Tools](https://voyant-tools.org/)
 
