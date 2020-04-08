@@ -21,7 +21,7 @@ Questo documento presenta un elenco di strumenti digitali di linguistica che off
 
 ## <a href="http://doccano.fem.digital" rel="FEM Future Education Modena" target="_blank">Doccano</a>
 
-### Descrizione
+### <i class="fas fa-info-circle"></i> Descrizione
 
 Software per l’annotazione di testi: è possibile caricare testi a scelta, e creare etichette personalizzate per svolgere attività didattiche mirate.
 
@@ -77,7 +77,7 @@ Grazie alla sua interfaccia semplice e dal  funzionamento intuitivo, è possibil
 
 ## <a href="https://voyant-tools.org/" rel="FEM Future Education Modena" target="_blank">Voyant Tools</a>
 
-### Descrizione
+### <i class="fas fa-info-circle"></i> Descrizione
 
 E’ un software per l’analisi testuale e letteraria in chiave quantitativa, che offre diversi strumenti di analisi e visualizzazione. 
 
