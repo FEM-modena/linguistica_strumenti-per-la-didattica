@@ -6,9 +6,19 @@
 
 # Strategie e strumenti digitali di linguistica applicata per la didattica
 
-Questo documento presenta un elenco di strumenti digitali di linguistica che offrono applicazioni interessanti in ambito didattico e in linea con le attuali Indicazioni Nazionali per il curricolo scolastico.
+Questo documento presenta un elenco di strumenti digitali di linguistica che offrono applicazioni interessanti in ambito didattico e in linea con le attuali Indicazioni Nazionali per il curricolo scolastico. Il documento viene aggiornato costantemente, e descrive gli strumenti attualmente in uso @@@@.
 
-## [Doccano](https://doccano.fem.digital)
+
+
+## Indice
+
+### [Doccano](#doccano) | Annotazione di testi
+
+### [Voyant Tools](#voyant-tools) | Analisi quantitativa e visualizzazione di testi
+
+## Gli strumenti
+
+## <a href="http://doccano.fem.digital" rel="FEM Future Education Modena" target="_blank">Doccano</a>
 
 ### Descrizione
 
@@ -42,29 +52,27 @@ Grazie alla sua interfaccia semplice e dal  funzionamento intuitivo, è possibil
 
 ### In breve: funzionalità <i class="fas fa-check-circle" style="color:green"></i>, limitazioni <i class="fas fa-times-circle" style="color:red"></i>, privacy <i class="far fa-eye-slash"></i>
 
-<i class="fas fa-check-circle" style="color:green"></i>  Possibilità di  caricare testi in qualsiasi lingua, ed in diversi formati, tra cui  `.txt` (testo semplice) e `json`.
+<i class="fas fa-check-circle" style="color:green"></i>  Possibilità di  caricare testi in **qualsiasi lingua**, ed in **diversi formati**, tra cui  `.txt` (testo semplice) e `json`.
 
-<i class="fas fa-check-circle" style="color:green"></i> Creazione di  un numero illimitato di etichette personalizzate, e di creare etichette diverse per progetti diversi.
+<i class="fas fa-check-circle" style="color:green"></i> Creazione di  un **numero illimitato di etichette personalizzate**, e  **diverse** per **progetti diversi**.
 
-<i class="fas fa-check-circle" style="color:green"></i> Visualizzazione delle annotazioni per ogni singolo utente
+<i class="fas fa-check-circle" style="color:green"></i> **Visualizzazione delle annotazioni **per ogni singolo utente.
 
-<i class="fas fa-check-circle" style="color:green"></i> Due modalità di annotazione: *individuale* o *collaborativa*
-
-<i class="fas fa-check-circle" style="color:green"></i>
+<i class="fas fa-check-circle" style="color:green"></i> Due **modalità** di annotazione:** *individuale*** o ***collaborativa***.
 
 <i class="fas fa-times-circle" style="color:red"></i> Non è possibile assegnare più di un'etichetta alla stessa parola/frase annotata.
 
 <i class="fas fa-times-circle" style="color:red"></i> Il registro delle annotazioni non consente di visualizzare l'ordine o la cronologia delle operazioni.
 
-<i class="fas fa-times-circle" style="color:red"></i> Non supporta l'accesso da cellulare.
+<i class="fas fa-times-circle" style="color:red"></i> **Non supporta** l'accesso da **smartphone**.
 
-<i class="far fa-eye-slash"></i> Software *open source*.
+<i class="far fa-eye-slash"></i> Software ***open source***.
 
 <i class="far fa-eye-slash"></i> Gli unici dati raccolti sono quelli inseriti al momento della creazione dell'account.
 
 <i class="far fa-eye-slash"></i> Tutti i dati (informazioni dell'account; annotazioni) sono conservate su un server privato - nel nostro caso, in un server gestito da FEM.
 
-## [Voyant Tools](https://voyant-tools.org/)
+## <a href="https://voyant-tools.org/" rel="FEM Future Education Modena" target="_blank">Voyant Tools</a>
 
 ### Descrizione
 
@@ -82,21 +90,3 @@ permette di caricare sia un testo completo sia il link a URL esterno, ad esempio
 analisi lessicale (in diverse lingue); Antologia, letteratura italiana, letterature europee a confronto: macro-analisi di testi e di correnti letterarie (ad esempio con attività che prevedano l’analisi di testi letterari o tipologie testuali in modalità distant reading, quindi focalizzata sulla creazione di schemi che mettano in relazione concetti chiave ricorrenti come i personaggi e i luoghi citati in un testo o in diversi testi dello stesso autore.
 
 ### In breve: funzionalità <i class="fas fa-check-circle" style="color:green"></i>, limitazioni <i class="fas fa-times-circle" style="color:red"></i>, privacy <i class="far fa-eye-slash"></i>
-
-
-
-## [Lancaster Stats Tool Online](http://corpora.lancs.ac.uk/stats/toolbox.php)
-
-E’ uno strumento facente parte del Toolbox “Semantics and discourse Collocations, keywords and lockwords”; viene utilizzato per calcolare le collocations a partire da una fase esplorativa (dunque con valore maggiormente pedagogico) in cui all’utente viene richiesto di inserire nel form la parola e un potenziale collocate. In questa fase, lo studente è chiamato a riflettere su aspetti linguistici e matematici. [Qui le istruzioni](http://corpora.lancs.ac.uk/stats/docs/collocation_calc_manual.pdf). 
-
-## [LancsBox](http://corpora.lancs.ac.uk/lancsbox/)
-
-E’ un software gratuito che funziona su qualsiasi sistema operativo - ma non su cellulare - ed è considerato uno degli strumenti *standard* per l’analisi linguistica Obiettivi di apprendimento: il tipo di analisi linguistica consente di coprire diverse aree, in particolare gli ambiti:
-semantico
-sintattico
-lessicale: ampliamento del vocabolario sia in L1 sia il L2; analisi di linguaggi settoriali (qui in particolare in L2; ad esempio “la lingua della politica”, “la lingua della medicina”, “la lingua dello sport”, “la lingua della scienza”)
-Applicazioni utili per la didattica: per L2 (in particolare inglese):    
-individuazione e analisi dei phrasal verbs
-insegnamento di espressioni idiomatiche/modi di dire, ma anche metafore a partire da una parola che può essere cercata nel corpus (ad es. da “apple” ottengo le espressioni idiomatiche che contengono quella parola: “bad apple”, “the apple doesn’t fall far from the tree”, “the apple of someone’s eye”);
-Sia in L1 che L2:
-confronto diacronico tra dataset diversi di diverse epoche storiche (applicazioni di linguistica storica per capire come si evolve la lingua)
