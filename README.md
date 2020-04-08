@@ -2,7 +2,7 @@
 
 &lt;a href=&quot;https://fem.digital&quot; rel=&quot;FEM Future Education Modena&quot; target=&quot;_blank&quot;&gt;![](file:///home/deek/git_repos/FEM/linguistica_strumenti-per-la-didattica/FEM_Logo.png)&lt;/a&gt;
 
-&gt; &lt;i class=&quot;far fa-calendar-check&quot;&gt;&lt;/i&gt; Ultimo aggiornamento: 8 Aprile 2020
+&lt;i class=&quot;far fa-calendar-check&quot;&gt;&lt;/i&gt; Ultimo aggiornamento: 8 Aprile 2020
 
 # Strategie e strumenti digitali di linguistica applicata per la didattica
 
