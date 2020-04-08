@@ -9,7 +9,18 @@
 Questo documento presenta un elenco di strumenti digitali di linguistica che offrono applicazioni interessanti in ambito didattico e in linea con le attuali Indicazioni Nazionali per il curricolo scolastico.
 
 ## [Doccano](https://doccano.fem.digital)
+
+### Descrizione
+
 E’ un software per l’annotazione semantica di testi: permette di inserire testi e di creare etichette personalizzate.
+
+### Funzionalità <i class="fas fa-check-circle" style="color:green"></i>, limitazioni <i class="fas fa-times-circle" style="color:red"></i>, privacy <i class="far fa-eye-slash"></i>
+
+<i class="fas fa-check-circle" style="color:green"></i>  Permette di caricare testi in qualsiasi lingua.
+
+<i class="fas fa-check-circle" style="color:green"></i> Permette di creare un numero illimitato di etichette personalizzate, e di creare etichette diverse per progetti diversi.
+
+
 
 **Obiettivi di apprendimento**: permette di lavorare su qualunque tipologia di analisi linguistica se si usano dataset targettizzati al livello linguistico della classe. 
 
@@ -25,6 +36,7 @@ E’ un software per l’annotazione semantica di testi: permette di inserire te
 - varietà linguistiche dell’italiano
 
 ## [Voyant Tools](https://voyant-tools.org/)
+
 E’ un software per l’analisi testuale e letteraria in chiave quantitativa, che offre diversi strumenti di analisi e visualizzazione.
 
 **Obiettivi di apprendimento**: permette di caricare sia un testo completo sia il link a URL esterno, ad esempio una rivista online contenente articoli; anche qui, sono molteplici le caratteristiche testuali e linguistiche su cui si può operare (collocations, analisi quantitativa delle parole presenti nel testo/word frequency, visualizzazioni grafiche etc.)
@@ -32,10 +44,11 @@ E’ un software per l’analisi testuale e letteraria in chiave quantitativa, c
 **Applicazioni utili per la didattica**: analisi lessicale (in diverse lingue); Antologia, letteratura italiana, letterature europee a confronto: macro-analisi di testi e di correnti letterarie (ad esempio con attività che prevedano l’analisi di testi letterari o tipologie testuali in modalità distant reading, quindi focalizzata sulla creazione di schemi che mettano in relazione concetti chiave ricorrenti come i personaggi e i luoghi citati in un testo o in diversi testi dello stesso autore.
 
 ## [Lancaster Stats Tool Online](http://corpora.lancs.ac.uk/stats/toolbox.php)
+
 E’ uno strumento facente parte del Toolbox “Semantics and discourse Collocations, keywords and lockwords”; viene utilizzato per calcolare le collocations a partire da una fase esplorativa (dunque con valore maggiormente pedagogico) in cui all’utente viene richiesto di inserire nel form la parola e un potenziale collocate. In questa fase, lo studente è chiamato a riflettere su aspetti linguistici e matematici. [Qui le istruzioni](http://corpora.lancs.ac.uk/stats/docs/collocation_calc_manual.pdf). 
 
-
 ## [LancsBox](http://corpora.lancs.ac.uk/lancsbox/)
+
 E’ un software gratuito che funziona su qualsiasi sistema operativo - ma non su cellulare - ed è considerato uno degli strumenti *standard* per l’analisi linguistica Obiettivi di apprendimento: il tipo di analisi linguistica consente di coprire diverse aree, in particolare gli ambiti:
 semantico
 sintattico
