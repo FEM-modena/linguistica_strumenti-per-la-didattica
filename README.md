@@ -7,14 +7,15 @@
 # Strategie e strumenti digitali di linguistica applicata per la didattica
 
 Questo documento presenta un elenco di strumenti digitali di linguistica che offrono applicazioni interessanti in ambito didattico e in linea con le attuali Indicazioni Nazionali per il curricolo scolastico. Il documento viene aggiornato costantemente, e descrive gli strumenti attualmente in uso @@@@.
-
-
+<br/>
 
 ## Indice
 
 ### [Doccano](#doccano) | Annotazione di testi
 
 ### [Voyant Tools](#voyant-tools) | Analisi quantitativa e visualizzazione di testi
+<br/>
+<br/>
 
 ## Gli strumenti
 
@@ -71,6 +72,8 @@ Grazie alla sua interfaccia semplice e dal  funzionamento intuitivo, è possibil
 <i class="far fa-eye-slash"></i> Gli unici dati raccolti sono quelli inseriti al momento della creazione dell'account.
 
 <i class="far fa-eye-slash"></i> Tutti i dati (informazioni dell'account; annotazioni) sono conservate su un server privato - nel nostro caso, in un server gestito da FEM.
+<br/>
+<br/>
 
 ## <a href="https://voyant-tools.org/" rel="FEM Future Education Modena" target="_blank">Voyant Tools</a>
 
