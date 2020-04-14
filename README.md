@@ -14,12 +14,22 @@ Questo documento presenta un elenco di strumenti digitali di linguistica che off
 ### [Doccano](#doccano) | Annotazione di testi
 
 ### [Voyant Tools](#voyant-tools) | Analisi quantitativa e visualizzazione di testi
+
 <br/>
 <br/>
 
 ## Gli strumenti
 
 ## <a href="http://doccano.fem.digital" rel="FEM Future Education Modena" target="_blank">Doccano</a>
+
+<i class="fas fa-check"></i>
+
+|                             |                                                          |
+| --------------------------- | -------------------------------------------------------- |
+| Sistema operativo           | Tutti: piattaforma web accessibile da qualsiasi browser. |
+| Supporto cellulare/tablet   | <i class="fas fa-times" style="color:red"></i>           |
+| Formati supportati (import) | `.txt`, `json`                                           |
+| Lingue supportate           | Qualsiasi                                                |
 
 ### <i class="fas fa-info-circle"></i> Descrizione
 
@@ -77,6 +87,15 @@ Grazie alla sua interfaccia semplice e dal  funzionamento intuitivo, è possibil
 
 ## <a href="https://voyant-tools.org/" rel="FEM Future Education Modena" target="_blank">Voyant Tools</a>
 
+## Informazioni tecniche
+
+|                             |                                                                                                                |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Sistema operativo           | **Versione web**: tutti, accessibile da qualsiasi browser<br/>**Versione *standalone***: Windows, MacOS, Linux |
+| Supporto cellulare/tablet   | <i class="fas fa-check" style="color:green"></i>                                                               |
+| Formati supportati (import) | `.txt`, `docx`, `xml`                                                                                          |
+| Lingue supportate           | Qualsiasi                                                                                                      |
+
 ### <i class="fas fa-info-circle"></i> Descrizione
 
 E’ un software per l’analisi testuale e letteraria in chiave quantitativa, che offre diversi strumenti di analisi e visualizzazione. 
@@ -90,6 +109,24 @@ permette di caricare sia un testo completo sia il link a URL esterno, ad esempio
 
 ### <i class="fas fa-laptop-code"></i> Applicazioni per la didattica
 
-analisi lessicale (in diverse lingue); Antologia, letteratura italiana, letterature europee a confronto: macro-analisi di testi e di correnti letterarie (ad esempio con attività che prevedano l’analisi di testi letterari o tipologie testuali in modalità distant reading, quindi focalizzata sulla creazione di schemi che mettano in relazione concetti chiave ricorrenti come i personaggi e i luoghi citati in un testo o in diversi testi dello stesso autore.
+Lo strumento fornisce molteplici funzionalità attraverso un'interfaccia intuitiva, supportata da una dettagliata documentazione. Offre la possibilità di approcciare testi (di qualsiasi tipologia e/o lingua) attraverso una **visione quantitativa**, lasciando quindi al docente e alla classe lo spazio per attività di interpretazione, comprensione, e riflessione sul testo. 
+
+### <i class="fas fa-tasks"></i> Esempi di possibili applicazioni d'uso
+
+<i class="fas fa-arrow-circle-right"></i> analisi lessicale (in qualsiasi lingua)
+
+<i class="fas fa-arrow-circle-right"></i> antologia, letteratura italiana, o letteratura straniera a **confronto**
+
+<i class="fas fa-arrow-circle-right"></i> macro-analisi di **testi e di correnti letterarie**; ad esempio attraverso l'approccio *Distant Reading*, focalizzato sulla **creazione di schemi** per mettere in **relazione concetti chiave** ricorrenti come i personaggi e i luoghi citati in un testo o in diversi testi dello stesso autore.
 
 ### In breve: funzionalità <i class="fas fa-check-circle" style="color:green"></i>, limitazioni <i class="fas fa-times-circle" style="color:red"></i>, privacy <i class="far fa-eye-slash"></i>
+
+<i class="fas fa-check-circle" style="color:green"></i> Possibilità di caricare testi in **qualsiasi lingua**, ed in **diversi formati** - tra cui `.txt` (testo semplice).
+
+<i class="fas fa-check-circle" style="color:green"></i> Possibilità di caricare testi **già online, quindi tramite URL** - ad esempio, attraverso link diretti dal [Progetto Gutenberg](https://www.gutenberg.org).
+
+<i class="fas fa-check-circle" style="color:green"></i> Sviluppato e manutenuto dalla Stanford University.
+
+<i class="fas fa-check-circle" style="color:green"></i> I risultati possono essere facilmente condivisi tramite link diretto.
+
+<i class="fas fa-check-circle" style="color:green"></i> Disponibile in due "formati": da browser web, o come programma da installare localmente sul proprio PC.
