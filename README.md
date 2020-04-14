@@ -6,7 +6,7 @@
 
 # Strategie e strumenti digitali di linguistica applicata per la didattica
 
-Questo documento presenta un elenco di strumenti digitali di linguistica che offrono applicazioni interessanti in ambito didattico e in linea con le attuali Indicazioni Nazionali per il curricolo scolastico. Il documento viene aggiornato costantemente, e descrive gli strumenti attualmente in uso @@@@.
+Questo documento presenta un elenco di strumenti digitali di linguistica che offrono applicazioni interessanti in ambito didattico e in linea con le attuali Indicazioni Nazionali per il curricolo scolastico. Il documento viene aggiornato costantemente, e descrive gli strumenti attualmente in uso nelle attività FEM.
 <br/>
 
 ## Indice
